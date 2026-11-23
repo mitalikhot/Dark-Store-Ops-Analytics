@@ -81,7 +81,3 @@ The runner rebuilds `warehouse.duckdb` from scratch on each run. It prints the d
 ## Skills demonstrated
 
 Data modeling, data-quality testing, window functions, cohort and retention analysis, percentile metrics, self-joins for affinity analysis, reproducible pipelines.
-
-## License
-
-MIT
