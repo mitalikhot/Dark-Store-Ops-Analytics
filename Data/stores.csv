@@ -1,0 +1,13 @@
+store_id,city,opened_on,rider_count
+BHO-01,Bhopal,2026-03-19,12
+BHO-02,Bhopal,2025-06-04,9
+BHO-03,Bhopal,2025-09-25,12
+BHO-04,Bhopal,2026-03-21,11
+IND-01,Indore,2026-01-21,6
+IND-02,Indore,2025-08-08,13
+IND-03,Indore,2025-04-23,12
+IND-04,Indore,2025-05-03,12
+JAB-01,Jabalpur,2025-08-15,7
+JAB-02,Jabalpur,2025-03-01,9
+GWA-01,Gwalior,2025-08-21,8
+GWA-02,Gwalior,2026-01-30,13

@@ -1,0 +1,16 @@
+sku,product_name,category,unit_price,is_perishable
+P001,Toned Milk 1L,Dairy,68,True
+P002,Paneer 200g,Dairy,95,True
+P003,Curd 400g,Dairy,45,True
+P004,Bread Loaf,Bakery,45,True
+P005,Eggs (6 pack),Dairy,72,True
+P006,Instant Noodles 70g,Packaged,14,False
+P007,Potato Chips,Snacks,20,False
+P008,Cola 750ml,Beverages,40,False
+P009,Mineral Water 1L,Beverages,20,False
+P010,Atta 5kg,Staples,260,False
+P011,Toor Dal 1kg,Staples,165,False
+P012,Onion 1kg,Fresh,40,True
+P013,Tomato 1kg,Fresh,35,True
+P014,Banana Dozen,Fresh,60,True
+P015,Ice Cream Tub 500ml,Frozen,180,True
